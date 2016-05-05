@@ -93,7 +93,7 @@ def main():
              else:
                   print("And so you begin your adventure you look at your Axe ready to face the world")
      else:
-         print("The End")
+         print("The End, Hope you enjoyed.")
 main()
 
 
